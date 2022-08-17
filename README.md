@@ -12,7 +12,7 @@ It's a mini shop where you can add or remove products.
 You can find the endpoint here: https://github.com/scandiweb/junior-react-endpoint
 </br>
 Download, install and run. Server should start at http://localhost:4000/
-### Install app client dependencies
+### Install client app dependencies
 ```bash
 npm install
 ```
