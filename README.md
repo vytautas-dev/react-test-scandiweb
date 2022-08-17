@@ -1,5 +1,5 @@
 
-# React online store 👕👗👚
+# React online store 👕💻👚📷
 Project made for the recruiments needs of Scandiweb company.
 </br>
 It's a mini shop where you can add or remove products.
